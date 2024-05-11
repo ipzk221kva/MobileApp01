@@ -1,4 +1,4 @@
-# MobileLabs
+# MobileApp01
 
 ### How to run
 To start the app run the command below:
